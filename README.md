@@ -1,8 +1,6 @@
 # task-board-woo
 creation of a task board web app
 
-# task-board-woo
-
 ## Description
 
 - My motivation for this project was to make a task board more functional and interactive by adding js code.
@@ -13,10 +11,6 @@ creation of a task board web app
 ## Usage
 
 Click on the provided URLs to view my project!
-
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
 
 ## License
 
