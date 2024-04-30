@@ -1,5 +1,5 @@
 # task-board-woo
-creation of a task board web app
+Creation of a task board web app
 
 ## Description
 
@@ -8,9 +8,19 @@ creation of a task board web app
 - The problem that this solves is that it makes the web app more interactive and user-friendly.
 - I learned how to give a site more functionality using JavaScript.
 
-## Usage
+## Installation
 
 Click on the provided URLs to view my project!
+
+## Technology Used
+
+- JavaScript
+
+## Usage
+
+![picture1](/assets/images/project5pic1.jpg)
+
+Live link:
 
 ## License
 
