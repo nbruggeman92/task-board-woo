@@ -20,7 +20,7 @@ Click on the provided URLs to view my project!
 
 ![picture1](/assets/images/project5pic1.jpg)
 
-Live link:
+Live link: https://nbruggeman92.github.io/task-board-woo/
 
 ## License
 
